@@ -1,0 +1,36 @@
+{
+  "outbounds":[
+    {
+      "protocol":"vmess",
+      "settings":{
+        "vnext":[
+          {
+            "address":"dongtaiwang2.com",
+            "port":443,
+            "users":[
+              {
+                "id":"f5c180eb-fbce-49ac-9029-482eca9385c0",
+                "security":"auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings":{
+        "network":"",
+        "security":"",
+        "tlsSettings":{
+          "allowInsecure":false,
+          "serverName":"",
+          "show":false
+        },
+        "wsSettings":{
+          "path":"",
+          "headers":{
+            "Host":""
+          }
+        }
+      }
+    }
+  ]
+}
