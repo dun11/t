@@ -10,7 +10,7 @@
             "users":[
               {
                 "id":"f5c180eb-fbce-49ac-9029-482eca9385c0",
-                "alterId":0,
+                "alterId":,
                 "security":"auto"
               }
             ]
@@ -18,7 +18,7 @@
         ]
       },
       "streamSettings":{
-        "network":"ws",
+        "network":"",
         "security":"",
         "tlsSettings":{
           "allowInsecure":false,
