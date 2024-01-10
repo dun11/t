@@ -1,7 +1,7 @@
 {
   "outbounds":[
     {
-      "protocol":"vmess",
+      "protocol":"vless",
       "settings":{
         "vnext":[
           {
@@ -10,6 +10,7 @@
             "users":[
               {
                 "id":"f5c180eb-fbce-49ac-9029-482eca9385c0",
+                "alterId":0,
                 "security":"auto"
               }
             ]
