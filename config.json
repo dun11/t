@@ -18,7 +18,7 @@
         ]
       },
       "streamSettings":{
-        "network":"",
+        "network":"ws",
         "security":"",
         "tlsSettings":{
           "allowInsecure":false,
